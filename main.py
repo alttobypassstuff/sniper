@@ -2,8 +2,8 @@ import requests, random, string, time
 
 #------------#
 
-names =  10 # Amount of usernames to save
-length =  5 # Length of usernames
+names =  700 # Amount of usernames to save
+length =  4 # Length of usernames
 
 #------------#
 
